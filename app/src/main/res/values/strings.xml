@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="app_title">Chatify</string>
+    <string name="app_description">Amazing app that provides a great chatting experience</string>
+    <string name="company_name">QuickSol technologies</string>
+    <string name="company_website">http://www.quicksoltech.com.pk</string>
+    <string name="contact_email">quicksoltech@gmail.com</string>
+    <string name="version_name">Version 1.1.0</string>
+</resources>
